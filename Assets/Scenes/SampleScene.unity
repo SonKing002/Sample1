@@ -275,12 +275,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f26201e629a168f4bb3196b71cf6f022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 0
+  my_Price: 0
   count: 0
   my_Name: 
   my_Description: "\uD478\uB978\uBE5B\uC758 \uBC31\uB8E1\uC774 \uB0B3\uC740\n\uC0AC\uAC01\uD615\uC758
     \uD669\uD640\uD55C \uB625\uB369\uC5B4\uB9AC"
   gauge: 0
+  my_Item: {fileID: 3354610995364051895, guid: dbf9d1a39055f5b468a6f39415ef450a, type: 3}
+  ex_Aidio: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

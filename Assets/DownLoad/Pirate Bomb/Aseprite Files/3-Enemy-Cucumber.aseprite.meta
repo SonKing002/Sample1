@@ -1,0 +1,2880 @@
+fileFormatVersion: 2
+guid: 2615cfdeab3c0fc43b97354b43e03658
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 3-Enemy-Cucumber_Frame_0
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 688
+      width: 30
+      height: 61
+    spriteID: f8672cc5efa2df043875fa20a2f89c89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 688}
+  - name: 3-Enemy-Cucumber_Frame_17
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 913
+      width: 32
+      height: 60
+    spriteID: 72e9295a7e69db14fa7e9916816c5d79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 913}
+  - name: 3-Enemy-Cucumber_Frame_19
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 724
+      width: 30
+      height: 62
+    spriteID: 41e188811f525a145b0dac78a876ba5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 724}
+  - name: 3-Enemy-Cucumber_Frame_20
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 30
+      height: 64
+    spriteID: b6a8502d3357c8c4383dd56567e046f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_21
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 351
+      width: 30
+      height: 66
+    spriteID: ffdc508fcbdd081408a2d6c74a139e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 351}
+  - name: 3-Enemy-Cucumber_Frame_23
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 76
+      width: 30
+      height: 64
+    spriteID: de165ac0899062a448c61c391981dd26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 76}
+  - name: 3-Enemy-Cucumber_Frame_25
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 148
+      width: 30
+      height: 64
+    spriteID: 8bfaad53208f89942b7735f6f5157f16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 148}
+  - name: 3-Enemy-Cucumber_Frame_26
+    originalName: 
+    pivot: {x: 0.44827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 934
+      width: 29
+      height: 64
+    spriteID: 4a90d2a2d08ba40408b024a299a76e4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 934}
+  - name: 3-Enemy-Cucumber_Frame_29
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 220
+      width: 30
+      height: 64
+    spriteID: 475ba3adb0f31ad44b3a25fa511830f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 220}
+  - name: 3-Enemy-Cucumber_Frame_30
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 292
+      width: 30
+      height: 64
+    spriteID: d3064db446758564c90307cc70880a95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 292}
+  - name: 3-Enemy-Cucumber_Frame_33
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 794
+      width: 30
+      height: 62
+    spriteID: 16bf677f53b57c74d82ddc1a94771674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 794}
+  - name: 3-Enemy-Cucumber_Frame_34
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 32
+      height: 60
+    spriteID: 8ecefc6cf30ea15489478444496fcaa5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_36
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 142
+      width: 30
+      height: 60
+    spriteID: 35a9a31f8edca8f4ea0bd70f8e069afa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 142}
+  - name: 3-Enemy-Cucumber_Frame_37
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 558
+      width: 30
+      height: 59
+    spriteID: bcf821976c9a47a4a84836eb0f6b4fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 558}
+  - name: 3-Enemy-Cucumber_Frame_39
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 210
+      width: 30
+      height: 60
+    spriteID: d6650becfd2ed084cb46468b3b6c4b75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 210}
+  - name: 3-Enemy-Cucumber_Frame_40
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 276
+      width: 32
+      height: 59
+    spriteID: 1c0302577daa48142bfd3cd70e68f933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 276}
+  - name: 3-Enemy-Cucumber_Frame_42
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.05084746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 625
+      width: 30
+      height: 59
+    spriteID: b7f1695783378f548a16cb4f2b7d1bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 625}
+  - name: 3-Enemy-Cucumber_Frame_43
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.086206906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 136
+      width: 30
+      height: 58
+    spriteID: d9d4f72ce963a5d4b8f3ac779bbf414d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 136}
+  - name: 3-Enemy-Cucumber_Frame_45
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.05084746}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 692
+      width: 30
+      height: 59
+    spriteID: 4b74e17043ed9564da58441816800511
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 692}
+  - name: 3-Enemy-Cucumber_Frame_46
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 343
+      width: 32
+      height: 59
+    spriteID: e6aa225a948b73e46914db0e035b17a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 343}
+  - name: 3-Enemy-Cucumber_Frame_48
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 400
+      width: 30
+      height: 57
+    spriteID: 20e4e35592b68ec40a9c3b4f1085d8b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 400}
+  - name: 3-Enemy-Cucumber_Frame_49
+    originalName: 
+    pivot: {x: 0.46428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 414
+      width: 28
+      height: 64
+    spriteID: a8043012ca7f89042a2fe260b7f0e850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 414}
+  - name: 3-Enemy-Cucumber_Frame_51
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.04918033}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 757
+      width: 30
+      height: 61
+    spriteID: 1eef8d0d5230a354e91562a211a44927
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 757}
+  - name: 3-Enemy-Cucumber_Frame_52
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.10344828}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 202
+      width: 30
+      height: 58
+    spriteID: 877e17a4e2370b64fa406abba82820fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 202}
+  - name: 3-Enemy-Cucumber_Frame_53
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 278
+      width: 30
+      height: 60
+    spriteID: 1ee41685212c2554ebc1310652b6470b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 278}
+  - name: 3-Enemy-Cucumber_Frame_54
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.032258067}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 864
+      width: 30
+      height: 62
+    spriteID: c006a49218bc2e241802acae922c3cee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 864}
+  - name: 3-Enemy-Cucumber_Frame_55
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 962
+      width: 32
+      height: 57
+    spriteID: 68a3822df8290e340985b5b802b0aa49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 962}
+  - name: 3-Enemy-Cucumber_Frame_57
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 759
+      width: 30
+      height: 59
+    spriteID: 3b17a5068111bcb459da23c641ac61a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 759}
+  - name: 3-Enemy-Cucumber_Frame_58
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 662
+      width: 26
+      height: 58
+    spriteID: bc8ed1e0099ed0c4189d82f6f2d38673
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 662}
+  - name: 3-Enemy-Cucumber_Frame_61
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 728
+      width: 26
+      height: 58
+    spriteID: 6a084ab5f1363d248a2fabf56ca0f2fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 728}
+  - name: 3-Enemy-Cucumber_Frame_63
+    originalName: 
+    pivot: {x: 0.52, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 241
+      width: 25
+      height: 58
+    spriteID: 9012adf6d2251c041a542cddca5f349f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 241}
+  - name: 3-Enemy-Cucumber_Frame_64
+    originalName: 
+    pivot: {x: 0.46428573, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 595
+      width: 28
+      height: 59
+    spriteID: 6fa462798252e3e40b6a962cb80bd5de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 595}
+  - name: 3-Enemy-Cucumber_Frame_65
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.016666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 346
+      width: 30
+      height: 60
+    spriteID: 26ef3b2fca9f3534791f3edf6acf989e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 346}
+  - name: 3-Enemy-Cucumber_Frame_66
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 4
+      width: 61
+      height: 26
+    spriteID: 33e8f4142f1cfd24d84c5331236f6b47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_69
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 38
+      width: 61
+      height: 26
+    spriteID: ddfee93b711336b42bd9699f75fe316a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 38}
+  - name: 3-Enemy-Cucumber_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 174
+      width: 60
+      height: 26
+    spriteID: f817fb12998ecc64782a686c7d06a8fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 174}
+  - name: 3-Enemy-Cucumber_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 313
+      y: 4
+      width: 64
+      height: 23
+    spriteID: e22e5c5358401a046b62b4c4d9ba6b26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 307
+      width: 60
+      height: 24
+    spriteID: 721886cebfe2a364ba63b57fde66ad24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 307}
+  - name: 3-Enemy-Cucumber_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 208
+      width: 60
+      height: 25
+    spriteID: 43500b1bbb880d648a016994319249b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 208}
+  - name: 3-Enemy-Cucumber_Frame_76
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 268
+      width: 30
+      height: 58
+    spriteID: 2e45e2ab590e53241afd2c2d9287c0f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 268}
+  - name: 3-Enemy-Cucumber_Frame_77
+    originalName: 
+    pivot: {x: 0.4137931, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 465
+      width: 29
+      height: 57
+    spriteID: c980cb1925f096d4798b7429dee653c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 465}
+  - name: 3-Enemy-Cucumber_Frame_79
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.031746034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 33
+      height: 63
+    spriteID: d5391f85a86b00a45b617a2c02b2d4f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+  - name: 3-Enemy-Cucumber_Frame_81
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 60
+    spriteID: 583a9444d22de5b489468bc6ce342d1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_83
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 282
+      width: 33
+      height: 61
+    spriteID: 20f2c01c088bcd0479ecb1f6e7c0ef9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 282}
+  - name: 3-Enemy-Cucumber_Frame_84
+    originalName: 
+    pivot: {x: 0.4848485, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 4
+      width: 33
+      height: 57
+    spriteID: 6df04b3361386794493f5cb751c5d056
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_86
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 826
+      width: 30
+      height: 59
+    spriteID: d03162d590aaa324c87dca694bc0b248
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 826}
+  - name: 3-Enemy-Cucumber_Frame_87
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 893
+      width: 30
+      height: 59
+    spriteID: 5762e1ed88ea9504ba2a4fa95683f667
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 893}
+  - name: 3-Enemy-Cucumber_Frame_89
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.015625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 364
+      width: 30
+      height: 64
+    spriteID: e0bc8c38b8589824280345c431142423
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 364}
+  - name: 3-Enemy-Cucumber_Frame_90
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 499
+      width: 30
+      height: 65
+    spriteID: b16a3fbe0632ca843a9a6f31fbdc305a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 499}
+  - name: 3-Enemy-Cucumber_Frame_93
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 436
+      width: 30
+      height: 64
+    spriteID: f0460dbb1613d5d4db32071f6906755b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 436}
+  - name: 3-Enemy-Cucumber_Frame_94
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 718
+      width: 34
+      height: 57
+    spriteID: 4333eb2d255fa7a4898a0e1ca34a7e6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 718}
+  - name: 3-Enemy-Cucumber_Frame_97
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 72
+      width: 32
+      height: 60
+    spriteID: d0ba75b8ad84f85498cbc7ddcaa03af8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 72}
+  - name: 3-Enemy-Cucumber_Frame_1
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 826
+      width: 30
+      height: 61
+    spriteID: e6f3824f217bd5e4db06fb6bb6246354
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 826}
+  - name: 3-Enemy-Cucumber_Frame_2
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 895
+      width: 30
+      height: 61
+    spriteID: 6f3eb9e5f73b1c646a0c3352da08c7aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 895}
+  - name: 3-Enemy-Cucumber_Frame_3
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 134
+      width: 30
+      height: 61
+    spriteID: bdc52291fb311d24ab0b73617a004a69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 134}
+  - name: 3-Enemy-Cucumber_Frame_4
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 203
+      width: 30
+      height: 61
+    spriteID: 7b6d557a4081bd640b6533b91c968ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 203}
+  - name: 3-Enemy-Cucumber_Frame_5
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 272
+      width: 30
+      height: 61
+    spriteID: 4f8b209406ef8f2419f0eb524884d5f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 272}
+  - name: 3-Enemy-Cucumber_Frame_6
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 341
+      width: 30
+      height: 61
+    spriteID: 273db024bc308cc47bf903795f587a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 341}
+  - name: 3-Enemy-Cucumber_Frame_7
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 410
+      width: 30
+      height: 61
+    spriteID: b4e70b2c62bf8a14a8b4c15193fd0bd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 410}
+  - name: 3-Enemy-Cucumber_Frame_8
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 479
+      width: 30
+      height: 61
+    spriteID: cbd79302c1e4b81438be9a29965a098a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 479}
+  - name: 3-Enemy-Cucumber_Frame_9
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 548
+      width: 30
+      height: 61
+    spriteID: 8374d96984a90004ab1f3bee143db6a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 548}
+  - name: 3-Enemy-Cucumber_Frame_10
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 617
+      width: 30
+      height: 61
+    spriteID: 609612ea3db76c342a5c700d633cf0a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 617}
+  - name: 3-Enemy-Cucumber_Frame_11
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 686
+      width: 30
+      height: 61
+    spriteID: e132953407e8fe64bbda2b8ef9925099
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 686}
+  - name: 3-Enemy-Cucumber_Frame_12
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 755
+      width: 30
+      height: 61
+    spriteID: e523b8751eb2f094881e5b972ab13b2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 755}
+  - name: 3-Enemy-Cucumber_Frame_13
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 824
+      width: 30
+      height: 61
+    spriteID: fd1535dba0a4217499525d7524840731
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 824}
+  - name: 3-Enemy-Cucumber_Frame_14
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 893
+      width: 30
+      height: 61
+    spriteID: c6ed2320986c3a740b1f09bbe0c3e9c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 893}
+  - name: 3-Enemy-Cucumber_Frame_15
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 4
+      width: 30
+      height: 61
+    spriteID: fe7715520af530644bcefec50765a7ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_16
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 73
+      width: 30
+      height: 61
+    spriteID: 249fe361ee3ec3a478a7969c1ead1e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 73}
+  - name: 3-Enemy-Cucumber_Frame_18
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 140
+      width: 32
+      height: 60
+    spriteID: 614cbb122b561984589cddf72c0fdd15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 140}
+  - name: 3-Enemy-Cucumber_Frame_22
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 425
+      width: 30
+      height: 66
+    spriteID: 3c561d7b4006d444388dc4ff21a262b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 425}
+  - name: 3-Enemy-Cucumber_Frame_24
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 508
+      width: 30
+      height: 64
+    spriteID: 9ab56be759a4fe14faf05e5b947d6e71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 508}
+  - name: 3-Enemy-Cucumber_Frame_27
+    originalName: 
+    pivot: {x: 0.44827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 544
+      width: 29
+      height: 64
+    spriteID: 4dcc1ce762a042f4f8849f1ada9644c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 544}
+  - name: 3-Enemy-Cucumber_Frame_28
+    originalName: 
+    pivot: {x: 0.44827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 616
+      width: 29
+      height: 64
+    spriteID: a853be35cb9430944b662965b8d9e525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 616}
+  - name: 3-Enemy-Cucumber_Frame_31
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 580
+      width: 30
+      height: 64
+    spriteID: cd1013d3809f0c3469cfe8dd0e4b367c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 580}
+  - name: 3-Enemy-Cucumber_Frame_32
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 652
+      width: 30
+      height: 64
+    spriteID: 5c5b5463824c9044280c7cf87cb02866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 652}
+  - name: 3-Enemy-Cucumber_Frame_35
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 208
+      width: 32
+      height: 60
+    spriteID: 9b509dceb89fd4244909e13ca3661e1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 208}
+  - name: 3-Enemy-Cucumber_Frame_38
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.06779661}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 960
+      width: 30
+      height: 59
+    spriteID: 8e28be1bf4ce35442930a69d59df1320
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 960}
+  - name: 3-Enemy-Cucumber_Frame_41
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 410
+      width: 32
+      height: 59
+    spriteID: 32b378cb0ad4ddf47b0d574eb3b814d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 410}
+  - name: 3-Enemy-Cucumber_Frame_44
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.086206906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 334
+      width: 30
+      height: 58
+    spriteID: c302848204ecba94593eabc952194fa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 334}
+  - name: 3-Enemy-Cucumber_Frame_47
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 477
+      width: 32
+      height: 59
+    spriteID: 838b5d263b557854b8694670205fc6e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 477}
+  - name: 3-Enemy-Cucumber_Frame_50
+    originalName: 
+    pivot: {x: 0.46428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 486
+      width: 28
+      height: 64
+    spriteID: f383684f8c6dff94aa4b35da539b2a80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 486}
+  - name: 3-Enemy-Cucumber_Frame_56
+    originalName: 
+    pivot: {x: 0.46875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 32
+      height: 57
+    spriteID: e7bacd20a0d77f04fb052cd5982c527a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: 3-Enemy-Cucumber_Frame_59
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 794
+      width: 26
+      height: 58
+    spriteID: e48c0eb95c3f21f48acc37c72f88a6a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 794}
+  - name: 3-Enemy-Cucumber_Frame_60
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 860
+      width: 26
+      height: 58
+    spriteID: 0a18f45f8299d6d4f9d8c990db090d65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 860}
+  - name: 3-Enemy-Cucumber_Frame_62
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.05172414}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 926
+      width: 26
+      height: 58
+    spriteID: 6f0a2c1959360f84e866ded8d03becf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 926}
+  - name: 3-Enemy-Cucumber_Frame_67
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 72
+      width: 61
+      height: 26
+    spriteID: 0e68d4ae32e9e6144a8d100e946f9351
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 72}
+  - name: 3-Enemy-Cucumber_Frame_68
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 106
+      width: 61
+      height: 26
+    spriteID: d8cf77ed7d73a2d499a8e07116d34d75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 106}
+  - name: 3-Enemy-Cucumber_Frame_70
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.46153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 140
+      width: 61
+      height: 26
+    spriteID: ab0132d09c0700c4e897585beeae5360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 140}
+  - name: 3-Enemy-Cucumber_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 313
+      y: 35
+      width: 64
+      height: 23
+    spriteID: fff19b5dcb320bc429b3e603e8122dc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 35}
+  - name: 3-Enemy-Cucumber_Frame_78
+    originalName: 
+    pivot: {x: 0.4137931, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 530
+      width: 29
+      height: 57
+    spriteID: 98c56e978a716de4993ca49d3b13cb62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 530}
+  - name: 3-Enemy-Cucumber_Frame_80
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.031746034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 211
+      width: 33
+      height: 63
+    spriteID: ddde88332d994254db32c9c23aa21582
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 211}
+  - name: 3-Enemy-Cucumber_Frame_82
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 35
+      height: 60
+    spriteID: cc8dff49dcd28794ba9204d6d87e4c32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: 3-Enemy-Cucumber_Frame_85
+    originalName: 
+    pivot: {x: 0.4848485, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 69
+      width: 33
+      height: 57
+    spriteID: 9d41a1832f23f0d43997da7490b2c473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 69}
+  - name: 3-Enemy-Cucumber_Frame_88
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 69
+      width: 30
+      height: 59
+    spriteID: 9a9f03e9425b7dd4cb12c70867c80850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 69}
+  - name: 3-Enemy-Cucumber_Frame_91
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 572
+      width: 30
+      height: 65
+    spriteID: 1f912a7a3593e774c836dedc085ccb6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 572}
+  - name: 3-Enemy-Cucumber_Frame_92
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 645
+      width: 30
+      height: 65
+    spriteID: d2f54eabf5319c640804920eca8664c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 645}
+  - name: 3-Enemy-Cucumber_Frame_95
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 783
+      width: 34
+      height: 57
+    spriteID: 43459b80a1babc64f99aeeba0d92346a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 783}
+  - name: 3-Enemy-Cucumber_Frame_96
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 848
+      width: 34
+      height: 57
+    spriteID: c1b822ae945495c4ca282b14e363365b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 848}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1315518481
+    name: 3-Enemy-Cucumber
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 3-Enemy-Cucumber_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: f8672cc5efa2df043875fa20a2f89c89
+    - name: 3-Enemy-Cucumber_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 60
+      spriteId: 72e9295a7e69db14fa7e9916816c5d79
+    - name: 3-Enemy-Cucumber_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 62
+      spriteId: 41e188811f525a145b0dac78a876ba5d
+    - name: 3-Enemy-Cucumber_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: b6a8502d3357c8c4383dd56567e046f5
+    - name: 3-Enemy-Cucumber_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 66
+      spriteId: ffdc508fcbdd081408a2d6c74a139e8d
+    - name: 3-Enemy-Cucumber_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: de165ac0899062a448c61c391981dd26
+    - name: 3-Enemy-Cucumber_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: 8bfaad53208f89942b7735f6f5157f16
+    - name: 3-Enemy-Cucumber_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 19
+        y: 0
+        width: 29
+        height: 64
+      spriteId: 4a90d2a2d08ba40408b024a299a76e4f
+    - name: 3-Enemy-Cucumber_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: 475ba3adb0f31ad44b3a25fa511830f9
+    - name: 3-Enemy-Cucumber_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: d3064db446758564c90307cc70880a95
+    - name: 3-Enemy-Cucumber_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 62
+      spriteId: 16bf677f53b57c74d82ddc1a94771674
+    - name: 3-Enemy-Cucumber_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 60
+      spriteId: 8ecefc6cf30ea15489478444496fcaa5
+    - name: 3-Enemy-Cucumber_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 18
+        y: 2
+        width: 30
+        height: 60
+      spriteId: 35a9a31f8edca8f4ea0bd70f8e069afa
+    - name: 3-Enemy-Cucumber_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 18
+        y: 4
+        width: 30
+        height: 59
+      spriteId: bcf821976c9a47a4a84836eb0f6b4fcd
+    - name: 3-Enemy-Cucumber_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 18
+        y: 2
+        width: 30
+        height: 60
+      spriteId: d6650becfd2ed084cb46468b3b6c4b75
+    - name: 3-Enemy-Cucumber_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 59
+      spriteId: 1c0302577daa48142bfd3cd70e68f933
+    - name: 3-Enemy-Cucumber_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 59
+      spriteId: b7f1695783378f548a16cb4f2b7d1bca
+    - name: 3-Enemy-Cucumber_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 18
+        y: 5
+        width: 30
+        height: 58
+      spriteId: d9d4f72ce963a5d4b8f3ac779bbf414d
+    - name: 3-Enemy-Cucumber_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 59
+      spriteId: 4b74e17043ed9564da58441816800511
+    - name: 3-Enemy-Cucumber_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 59
+      spriteId: e6aa225a948b73e46914db0e035b17a3
+    - name: 3-Enemy-Cucumber_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 57
+      spriteId: 20e4e35592b68ec40a9c3b4f1085d8b8
+    - name: 3-Enemy-Cucumber_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 19
+        y: 0
+        width: 28
+        height: 64
+      spriteId: a8043012ca7f89042a2fe260b7f0e850
+    - name: 3-Enemy-Cucumber_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 61
+      spriteId: 1eef8d0d5230a354e91562a211a44927
+    - name: 3-Enemy-Cucumber_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 18
+        y: 6
+        width: 30
+        height: 58
+      spriteId: 877e17a4e2370b64fa406abba82820fb
+    - name: 3-Enemy-Cucumber_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 18
+        y: 4
+        width: 30
+        height: 60
+      spriteId: 1ee41685212c2554ebc1310652b6470b
+    - name: 3-Enemy-Cucumber_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 18
+        y: 2
+        width: 30
+        height: 62
+      spriteId: c006a49218bc2e241802acae922c3cee
+    - name: 3-Enemy-Cucumber_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 57
+      spriteId: 68a3822df8290e340985b5b802b0aa49
+    - name: 3-Enemy-Cucumber_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 59
+      spriteId: 3b17a5068111bcb459da23c641ac61a5
+    - name: 3-Enemy-Cucumber_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 18
+        y: 3
+        width: 26
+        height: 58
+      spriteId: bc8ed1e0099ed0c4189d82f6f2d38673
+    - name: 3-Enemy-Cucumber_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 18
+        y: 3
+        width: 26
+        height: 58
+      spriteId: 6a084ab5f1363d248a2fabf56ca0f2fa
+    - name: 3-Enemy-Cucumber_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 19
+        y: 3
+        width: 25
+        height: 58
+      spriteId: 9012adf6d2251c041a542cddca5f349f
+    - name: 3-Enemy-Cucumber_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 19
+        y: 2
+        width: 28
+        height: 59
+      spriteId: 6fa462798252e3e40b6a962cb80bd5de
+    - name: 3-Enemy-Cucumber_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 18
+        y: 1
+        width: 30
+        height: 60
+      spriteId: 26ef3b2fca9f3534791f3edf6acf989e
+    - name: 3-Enemy-Cucumber_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 1
+        y: 12
+        width: 61
+        height: 26
+      spriteId: 33e8f4142f1cfd24d84c5331236f6b47
+    - name: 3-Enemy-Cucumber_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 1
+        y: 12
+        width: 61
+        height: 26
+      spriteId: ddfee93b711336b42bd9699f75fe316a
+    - name: 3-Enemy-Cucumber_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 2
+        y: 12
+        width: 60
+        height: 26
+      spriteId: f817fb12998ecc64782a686c7d06a8fb
+    - name: 3-Enemy-Cucumber_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 23
+      spriteId: e22e5c5358401a046b62b4c4d9ba6b26
+    - name: 3-Enemy-Cucumber_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 2
+        y: 0
+        width: 60
+        height: 24
+      spriteId: 721886cebfe2a364ba63b57fde66ad24
+    - name: 3-Enemy-Cucumber_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 2
+        y: 0
+        width: 60
+        height: 25
+      spriteId: 43500b1bbb880d648a016994319249b1
+    - name: 3-Enemy-Cucumber_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 58
+      spriteId: 2e45e2ab590e53241afd2c2d9287c0f5
+    - name: 3-Enemy-Cucumber_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 20
+        y: 0
+        width: 29
+        height: 57
+      spriteId: c980cb1925f096d4798b7429dee653c8
+    - name: 3-Enemy-Cucumber_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 15
+        y: 2
+        width: 33
+        height: 63
+      spriteId: d5391f85a86b00a45b617a2c02b2d4f8
+    - name: 3-Enemy-Cucumber_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 12
+        y: 3
+        width: 35
+        height: 60
+      spriteId: 583a9444d22de5b489468bc6ce342d1d
+    - name: 3-Enemy-Cucumber_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 14
+        y: 0
+        width: 33
+        height: 61
+      spriteId: 20f2c01c088bcd0479ecb1f6e7c0ef9d
+    - name: 3-Enemy-Cucumber_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 16
+        y: 0
+        width: 33
+        height: 57
+      spriteId: 6df04b3361386794493f5cb751c5d056
+    - name: 3-Enemy-Cucumber_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 59
+      spriteId: d03162d590aaa324c87dca694bc0b248
+    - name: 3-Enemy-Cucumber_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 59
+      spriteId: 5762e1ed88ea9504ba2a4fa95683f667
+    - name: 3-Enemy-Cucumber_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 18
+        y: 1
+        width: 30
+        height: 64
+      spriteId: e0bc8c38b8589824280345c431142423
+    - name: 3-Enemy-Cucumber_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 65
+      spriteId: b16a3fbe0632ca843a9a6f31fbdc305a
+    - name: 3-Enemy-Cucumber_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: f0460dbb1613d5d4db32071f6906755b
+    - name: 3-Enemy-Cucumber_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 14
+        y: 0
+        width: 34
+        height: 57
+      spriteId: 4333eb2d255fa7a4898a0e1ca34a7e6f
+    - name: 3-Enemy-Cucumber_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 16
+        y: 0
+        width: 32
+        height: 60
+      spriteId: d0ba75b8ad84f85498cbc7ddcaa03af8
+    - name: 3-Enemy-Cucumber_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: e6f3824f217bd5e4db06fb6bb6246354
+    - name: 3-Enemy-Cucumber_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 6f3eb9e5f73b1c646a0c3352da08c7aa
+    - name: 3-Enemy-Cucumber_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: bdc52291fb311d24ab0b73617a004a69
+    - name: 3-Enemy-Cucumber_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 7b6d557a4081bd640b6533b91c968ffe
+    - name: 3-Enemy-Cucumber_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 4f8b209406ef8f2419f0eb524884d5f0
+    - name: 3-Enemy-Cucumber_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 273db024bc308cc47bf903795f587a81
+    - name: 3-Enemy-Cucumber_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: b4e70b2c62bf8a14a8b4c15193fd0bd9
+    - name: 3-Enemy-Cucumber_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: cbd79302c1e4b81438be9a29965a098a
+    - name: 3-Enemy-Cucumber_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 8374d96984a90004ab1f3bee143db6a3
+    - name: 3-Enemy-Cucumber_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 609612ea3db76c342a5c700d633cf0a8
+    - name: 3-Enemy-Cucumber_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: e132953407e8fe64bbda2b8ef9925099
+    - name: 3-Enemy-Cucumber_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: e523b8751eb2f094881e5b972ab13b2a
+    - name: 3-Enemy-Cucumber_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: fd1535dba0a4217499525d7524840731
+    - name: 3-Enemy-Cucumber_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: c6ed2320986c3a740b1f09bbe0c3e9c1
+    - name: 3-Enemy-Cucumber_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: fe7715520af530644bcefec50765a7ea
+    - name: 3-Enemy-Cucumber_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 61
+      spriteId: 249fe361ee3ec3a478a7969c1ead1e22
+    - name: 3-Enemy-Cucumber_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 60
+      spriteId: 614cbb122b561984589cddf72c0fdd15
+    - name: 3-Enemy-Cucumber_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 66
+      spriteId: 3c561d7b4006d444388dc4ff21a262b9
+    - name: 3-Enemy-Cucumber_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: 9ab56be759a4fe14faf05e5b947d6e71
+    - name: 3-Enemy-Cucumber_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 19
+        y: 0
+        width: 29
+        height: 64
+      spriteId: 4dcc1ce762a042f4f8849f1ada9644c3
+    - name: 3-Enemy-Cucumber_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 19
+        y: 0
+        width: 29
+        height: 64
+      spriteId: a853be35cb9430944b662965b8d9e525
+    - name: 3-Enemy-Cucumber_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: cd1013d3809f0c3469cfe8dd0e4b367c
+    - name: 3-Enemy-Cucumber_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 64
+      spriteId: 5c5b5463824c9044280c7cf87cb02866
+    - name: 3-Enemy-Cucumber_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 60
+      spriteId: 9b509dceb89fd4244909e13ca3661e1f
+    - name: 3-Enemy-Cucumber_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 18
+        y: 4
+        width: 30
+        height: 59
+      spriteId: 8e28be1bf4ce35442930a69d59df1320
+    - name: 3-Enemy-Cucumber_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 59
+      spriteId: 32b378cb0ad4ddf47b0d574eb3b814d3
+    - name: 3-Enemy-Cucumber_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 18
+        y: 5
+        width: 30
+        height: 58
+      spriteId: c302848204ecba94593eabc952194fa6
+    - name: 3-Enemy-Cucumber_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 59
+      spriteId: 838b5d263b557854b8694670205fc6e2
+    - name: 3-Enemy-Cucumber_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 19
+        y: 0
+        width: 28
+        height: 64
+      spriteId: f383684f8c6dff94aa4b35da539b2a80
+    - name: 3-Enemy-Cucumber_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 17
+        y: 0
+        width: 32
+        height: 57
+      spriteId: e7bacd20a0d77f04fb052cd5982c527a
+    - name: 3-Enemy-Cucumber_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 18
+        y: 3
+        width: 26
+        height: 58
+      spriteId: e48c0eb95c3f21f48acc37c72f88a6a1
+    - name: 3-Enemy-Cucumber_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 18
+        y: 3
+        width: 26
+        height: 58
+      spriteId: 0a18f45f8299d6d4f9d8c990db090d65
+    - name: 3-Enemy-Cucumber_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 18
+        y: 3
+        width: 26
+        height: 58
+      spriteId: 6f0a2c1959360f84e866ded8d03becf2
+    - name: 3-Enemy-Cucumber_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 1
+        y: 12
+        width: 61
+        height: 26
+      spriteId: 0e68d4ae32e9e6144a8d100e946f9351
+    - name: 3-Enemy-Cucumber_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 1
+        y: 12
+        width: 61
+        height: 26
+      spriteId: d8cf77ed7d73a2d499a8e07116d34d75
+    - name: 3-Enemy-Cucumber_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 1
+        y: 12
+        width: 61
+        height: 26
+      spriteId: ab0132d09c0700c4e897585beeae5360
+    - name: 3-Enemy-Cucumber_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 23
+      spriteId: fff19b5dcb320bc429b3e603e8122dc4
+    - name: 3-Enemy-Cucumber_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 20
+        y: 0
+        width: 29
+        height: 57
+      spriteId: 98c56e978a716de4993ca49d3b13cb62
+    - name: 3-Enemy-Cucumber_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 15
+        y: 2
+        width: 33
+        height: 63
+      spriteId: ddde88332d994254db32c9c23aa21582
+    - name: 3-Enemy-Cucumber_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 12
+        y: 3
+        width: 35
+        height: 60
+      spriteId: cc8dff49dcd28794ba9204d6d87e4c32
+    - name: 3-Enemy-Cucumber_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 16
+        y: 0
+        width: 33
+        height: 57
+      spriteId: 9d41a1832f23f0d43997da7490b2c473
+    - name: 3-Enemy-Cucumber_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 18
+        y: 0
+        width: 30
+        height: 59
+      spriteId: 9a9f03e9425b7dd4cb12c70867c80850
+    - name: 3-Enemy-Cucumber_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 65
+      spriteId: 1f912a7a3593e774c836dedc085ccb6c
+    - name: 3-Enemy-Cucumber_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 18
+        y: 3
+        width: 30
+        height: 65
+      spriteId: d2f54eabf5319c640804920eca8664c3
+    - name: 3-Enemy-Cucumber_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 14
+        y: 0
+        width: 34
+        height: 57
+      spriteId: 43459b80a1babc64f99aeeba0d92346a
+    - name: 3-Enemy-Cucumber_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 14
+        y: 0
+        width: 34
+        height: 57
+      spriteId: c1b822ae945495c4ca282b14e363365b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 68}

@@ -12,3 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a6fdff5065e094dac8f0f61b643d8e, type: 3}
   m_Name: BasicCharacter
   m_EditorClassIdentifier: 
+  walk_Speed: 0
+  name: 
+  hp: 0
+  atkPower_Bomb: 0
+  atkPower_short: 0
+  speed_walk: 0
+  speed_BombAtk: 0
+  speed_ShortAtk: 0
+  sprite_ren: {fileID: 21300000, guid: 768aaeef870f3fd4baa1be8c99239a13, type: 3}
+  animCtrl: {fileID: 0}

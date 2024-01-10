@@ -23,9 +23,11 @@ public class Player : ScriptableObject
     public float speed_walk;
     public float speed_BombAtk;
     public float speed_ShortAtk;
-    public SpriteRenderer sprite_ren;
 
+    [Header("스프라이트,에니메이션")]
+    public Sprite sprite_ren;
     public Animator animCtrl;
+
     public enum InformNumber
     { 
         NULL,
